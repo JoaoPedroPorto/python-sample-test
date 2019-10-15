@@ -3,25 +3,26 @@ Unit Testing in Python
 
 # Commands
 ### INSTALL VM 
-#### Somente 1º vez
+#### Only 1º 
 ```
-sudo apt-get install python3-venv
+sudo apt-get install python3-venv (Linux)
+sudo pip install virtualenv (Mac)
 ```
 
 ### CREATE VM
-#### Somente 1º vez
+#### Only 1º (create only to os different)
 ```
-python3 -m venv sandbox 
+python3 -m venv $name-machine 
 ```
 
 ### ACTIVE VM
 ```
-source sandbox/bin/activate
+source $name-machine/bin/activate
 ``` 
 
 ### RUN TESTS
 ```
-python -m unittest tests/test.py 
+python -m unittest tests.test
 ```
 
 ### FREEZE DEPENDENCIES

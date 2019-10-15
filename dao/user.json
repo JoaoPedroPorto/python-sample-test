@@ -34,5 +34,5 @@
     {  "id": 33,   "mail": "HHHH@dextra-sw.com",         "name": "Henrique",          "lastName": "Daólio",     "sex": "M",   "status": "ACTIVE",     "profile": "GENERALMANAGER", "age": 22  },
     {  "id": 34,   "mail": "IIII@dextra-sw.com",         "name": "Carlos",            "lastName": "Clemente",   "sex": "M",   "status": "INACTIVE",   "profile": "DRIVER",         "age": 29  },
     {  "id": 35,   "mail": "JJJJ@dextra-sw.com",         "name": "Samuel",            "lastName": "Clemente",   "sex": "M",   "status": "ACTIVE",     "profile": "STUDENT",        "age": 28  },
-    {  "id": 36,   "mail": "joao.porto@dextra-sw.com",   "name": "João Pedro",        "lastName": "Porto",      "sex": "M",   "status": "PENDING",     "profile": "MODERATOR",     "age": 28  }
+    {  "id": 36,   "mail": "joao.porto@dextra-sw.com",   "name": "João Pedro",        "lastName": "Porto",      "sex": "M",   "status": "PENDING",    "profile": "MODERATOR",      "age": 28  }
  ]
